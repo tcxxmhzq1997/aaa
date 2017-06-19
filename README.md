@@ -10,7 +10,12 @@
 
 [这里](http://pan.baidu.com/s/1bPzIkY)有医患信任课题组的相关资料^[我的天]。
 
+`inline codd`
 
+
+```
+install.packages("dplyr")
+```
 
 
 
